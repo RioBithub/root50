@@ -1,4 +1,4 @@
-# root50
+# root50 (Don't try this, just for fun!)
 Shell for python,you can run it with termux. 
 How to run ?
 cd root50
